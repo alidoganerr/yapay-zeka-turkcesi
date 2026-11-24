@@ -23,19 +23,11 @@ Sık görülenler: "Günümüzde", "Hızla gelişen dünyada", "Dijital çağda"
 
 ## 2. Önemli olduğunu söylemek, göstermemek
 
-| Böyle | Şöyle |
-|---|---|
-| Haftalık toplantılar ekip içi iletişimde önemli bir rol oynamaktadır. | Haftalık toplantı olunca kimse bir sonraki adımı unutmuyor. |
-
-"Büyük önem taşımaktadır", "kritik öneme sahiptir", "hayati önem taşır", "önemli bir rol oynar" gördüğünüzde iki seçenek var: neden önemli olduğunu bir örnekle söyleyin ya da cümleyi çıkarın.
+"Büyük önem taşımaktadır", "kritik öneme sahiptir", "hayati önem taşır", "önemli bir rol oynar" gördüğünüzde iki seçenek var: neden önemli olduğunu bir örnekle söyleyin ya da cümleyi çıkarın. Örneğin "Haftalık toplantılar ekip içi iletişimde önemli bir rol oynamaktadır" yerine "Haftalık toplantı olunca kimse bir sonraki adımı unutmuyor" yazılabilir.
 
 ## 3. "-mektedir" zinciri
 
-| Böyle | Şöyle |
-|---|---|
-| Veriler düzenli olarak toplanmakta, analiz edilmekte ve raporlanmaktadır. | Verileri her hafta topluyor, inceliyor ve raporluyoruz. |
-
-Resmi bir yazıda tek tük "-mektedir" yerini bulur. Aynı paragrafta ikinci kez geldiğinde metin rapor diline döner. Çoğu zaman "-iyor" ya da "-ır" yeter.
+Resmi bir yazıda tek tük "-mektedir" yerini bulur. Aynı paragrafta ikincisi gelince metin rapor diline döner: "Veriler düzenli olarak toplanmakta, analiz edilmekte ve raporlanmaktadır." Çoğu zaman "-iyor" ya da "-ır" yeter: "Verileri topluyor, inceliyor ve raporluyoruz."
 
 ## 4. Her paragrafı bir bağlaçla açmak
 
@@ -105,7 +97,7 @@ Bir sıfatı silince cümle bir şey kaybetmiyorsa o sıfat süstü.
 
 ## Nasıl kullanılır
 
-Taslağı okurken bu başlıklara bakın. Bir kalıbı düzeltirken yerine başka bir kalıp koymayın: "çığır açan" yerine "devrim niteliğinde" yazmak bir şey değiştirmez. Metne yeni bilgi, rakam ya da deneyim eklemeyin; sade hali aynı şeyi daha kısa söylemeli. <!-- tells: ignore -->
+Taslağı okurken bu başlıklara bakın. Bir kalıbı düzeltirken yerine başka bir kalıp koymayın: "çığır açan" yerine "devrim niteliğinde" yazmak bir şey değiştirmez. Sade hali aynı şeyi daha kısa söylemeli. <!-- tells: ignore -->
 
 Sayılabilenleri tells kontrol ediyor:
 
@@ -120,6 +112,6 @@ tells bu rehberdeki ifadelerin bir kısmını, aynı paragrafta ikinci "-mektedi
 - Wikipedia, [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 - Conor Bronsdon, [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
 
-Türkçe kalıplar, yapay zekayla yazılmış Türkçe metinlerde sık görülenlerden derlendi. Eksik gördüğünüz bir kalıp varsa issue açabilirsiniz.
+Eksik gördüğünüz bir kalıp varsa issue açabilirsiniz.
 
-Ali Doğaner. Metin [CC BY 4.0](LICENSE) ile paylaşılıyor.
+Metin [CC BY 4.0](LICENSE) lisanslı.
